@@ -1,0 +1,66 @@
+
+
+$colorh: #686868;
+
+
+ul {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  color:$colorh;
+}
+
+h2 {
+  color: $colorh;
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+
+.align-right {
+  text-align: right;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.padding {
+  padding: 65px 0;
+}
+
+.padding-bottom {
+  padding-bottom: 65px;
+}
+
+.padding-top {
+  padding-top: 90px;
+}
+
+.padding-right {
+  padding-right: 80px;
+}
+
+.padding-left {
+  padding-left: 80px;
+}
+
+.margin-bottom {
+  margin-bottom: 35px;
+}
+.overflow {
+  overflow: hidden;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}

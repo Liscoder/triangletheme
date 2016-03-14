@@ -1,0 +1,24 @@
+footer{
+	background:url('../images/home/footer.png') no-repeat center center fixed;
+	padding:10% 0;
+	width:100%;
+	.form-group{
+		border: 1px solid rgba(224, 158, 42, 0.75);
+		border-radius:4px;
+		.btn-submit{
+			width:100%;
+			background-color:#d89b4e;
+			text-transform:uppercase;
+			color:white;
+		}
+	}
+}
+
+.nave{
+	.wow{
+	-webkit-animation-duration: 5s;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-iteration-count: 100;
+
+}
+}
